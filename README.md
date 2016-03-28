@@ -1,5 +1,3 @@
 # SimpleCache
 
-dddd
-
-d
+测试缓存开发
